@@ -4,4 +4,6 @@ This simple country dropdown list is freely available for you to copy and use in
 
 Link to the API json data: [Start working Now!](http://restcountries.eu/rest/v2/all)
 
+Updated New Link to the API json data: [Start working Now!](https://restcountries.com/v3.1/all)
+
 For details, read through this article on my website: [Oston Code Cypher](https://bit.ly/3wDBFEt)
